@@ -102,7 +102,5 @@ namespace AareonTechnicalTest.Controllers
             // return result
             return Ok(result);
         }
-
-
     }
 }
